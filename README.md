@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF9933&lines=Hey%2C+I'm+Manav+Saha!+👋🏻)](https://github.com/manavsaha)
 
 <div align="right">
-  <img src="https://github.com/user-attachments/assets/c4defa45-1003-49cb-bc16-a9b52b96d144" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" />
+  <img src="[https://github.com/user-attachments/assets/c4defa45-1003-49cb-bc16-a9b52b96d144](https://media.istockphoto.com/id/1327183380/vector/set-cartoon-character-of-funny-crow.jpg?s=612x612&w=0&k=20&c=szNSBr9mJWhCFLPAq5lpKBXAT-92mKjC4-IJs8RGkpA=)" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" />
 </div> 
 
 ## 🧩 About me:
@@ -21,17 +21,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,flutter,dart,react,nodejs,mysql,firebase,figma,git&theme=dark&perline=16" />
 </p>
-
-## 💭 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=manavsaha&theme=omni&hide_border=true&include_all_commits=true&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manavsaha&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=manavsaha&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
 
 ## 🐦 Crow Corner (because crows > cats 😎)
 
